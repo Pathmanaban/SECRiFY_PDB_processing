@@ -1,0 +1,77 @@
+================================================================
+Program: CD-HIT, V4.6 (+OpenMP), Mar 04 2016, 09:33:19
+Command: /home/oasis/data/NGS-ann-project/apps/cd-hit/cd-hit
+         -i 1488236778.fas.0 -d 0 -o 1488236778.fas.1 -c 1.0 -n
+         5 -G 1 -g 1 -b 20 -s 0.0 -aL 0.0 -aS 0.0 -T 4 -M 32000
+
+Started: Tue Feb 28 07:22:07 2017
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 11618
+longest and shortest : 272 and 11
+Total letters: 665940
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 2M
+Buffer          : 4 X 10M = 42M
+Table           : 2 X 65M = 131M
+Miscellaneous   : 0M
+Total           : 175M
+
+Table limit with the given memory limit:
+Max number of representatives: 4000000
+Max number of word counting entries: 3978002490
+
+# comparing sequences from          0  to       1936
+.---------- new table with     1715 representatives
+# comparing sequences from       1936  to       3549
+.....................----------    659 remaining sequences to the next cycle
+---------- new table with      728 representatives
+# comparing sequences from       2890  to       4344
+.....................----------    470 remaining sequences to the next cycle
+---------- new table with      690 representatives
+# comparing sequences from       3874  to       5164
+.....................----------    324 remaining sequences to the next cycle
+---------- new table with      627 representatives
+# comparing sequences from       4840  to       5969
+.....................----------    445 remaining sequences to the next cycle
+---------- new table with      448 representatives
+# comparing sequences from       5524  to       6539
+.....................----------    301 remaining sequences to the next cycle
+---------- new table with      428 representatives
+# comparing sequences from       6238  to       7134
+....................----------    254 remaining sequences to the next cycle
+---------- new table with      365 representatives
+# comparing sequences from       6880  to       7669
+.....................----------     97 remaining sequences to the next cycle
+---------- new table with      320 representatives
+# comparing sequences from       7572  to       8246
+.....................93.3%93.5%93.6%93.7%93.9%94.0%94.1%94.2%94.3%94.4%94.6%94.7%94.8%95.0%95.1%95.2%95.4%95.5%95.6%95.8%95.9%96.0%96.1%96.2%96.4%96.5%96.6%96.7%96.8%97.0%97.1%97.2%97.3%97.4%97.6%97.7%97.8%97.9%98.0%98.1%98.3%98.4%98.5%98.6%98.7%98.8%98.9%99.1%99.2%99.4%99.5%99.6%99.8%99.9%---------- new table with      278 representatives
+# comparing sequences from       8246  to       8808
+...................92.1%92.2%92.3%92.5%92.6%92.7%92.8%92.9%93.1%93.2%93.3%93.4%93.6%93.7%93.8%93.9%94.0%94.2%94.3%94.4%94.5%94.6%94.7%94.9%95.0%95.1%95.2%95.3%95.4%95.5%95.7%95.8%95.9%96.0%96.2%96.3%96.4%96.5%96.7%96.8%96.9%97.0%97.1%97.3%97.4%97.5%97.6%97.7%97.8%98.0%98.1%98.2%98.3%98.4%98.5%98.6%98.7%98.9%99.0%99.1%99.2%99.3%99.4%99.5%99.7%99.8%99.9%---------- new table with      179 representatives
+# comparing sequences from       8808  to       9276
+.....................94.0%94.3%94.4%94.5%94.6%94.8%94.9%95.0%95.2%95.3%95.5%95.6%95.7%95.8%95.9%96.1%96.2%96.3%96.4%96.5%96.7%96.8%96.9%97.0%97.1%97.2%97.4%97.5%97.6%97.7%97.8%97.9%98.0%98.1%98.3%98.4%98.6%98.7%98.8%98.9%99.0%99.1%99.3%99.4%99.5%99.6%99.7%99.8%100.0%---------- new table with      114 representatives
+# comparing sequences from       9276  to       9666
+....................96.7%96.9%97.0%97.2%97.3%97.4%97.6%97.7%97.9%98.0%98.1%98.2%98.3%98.5%98.6%98.7%98.8%98.9%99.1%99.2%99.4%99.5%99.8%99.9%---------- new table with       95 representatives
+# comparing sequences from       9666  to       9991
+...................96.6%96.8%96.9%97.1%97.2%97.3%97.5%97.6%97.7%97.8%98.0%98.1%98.2%98.3%98.4%98.5%98.6%98.8%98.9%99.0%99.1%99.2%99.4%99.5%99.6%99.7%99.8%100.0%---------- new table with       57 representatives
+# comparing sequences from       9991  to      10262
+..............................    10000  finished       6047  clusters
+98.0%98.2%98.3%98.4%98.5%98.7%98.8%98.9%99.0%99.1%99.2%99.3%99.4%99.5%99.7%99.8%99.9%---------- new table with       38 representatives
+# comparing sequences from      10262  to      10488
+..................97.1%97.3%97.4%97.5%97.7%97.8%97.9%98.0%98.1%98.2%98.4%98.5%98.6%98.7%98.9%99.0%99.1%99.2%99.3%99.5%99.6%99.8%99.9%---------- new table with       25 representatives
+# comparing sequences from      10488  to      10676
+...................98.5%98.8%98.9%99.0%99.1%99.2%99.3%99.4%99.6%99.7%99.8%99.9%---------- new table with       29 representatives
+# comparing sequences from      10676  to      11618
+.....................---------- new table with      103 representatives
+
+    11618  finished       6239  clusters
+
+Apprixmated maximum memory consumption: 177M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.72

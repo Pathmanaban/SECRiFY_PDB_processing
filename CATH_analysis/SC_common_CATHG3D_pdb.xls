@@ -1,0 +1,301 @@
+CID	Dom_Name	Name	Frac.of.Enri	Frac.of.Depl	Freq.enri	Freq.depl	Boolean	Class
+1.10.10.10	winged helix repressor DNA binding domain	Winged helix-turn-helix DNA-binding domain	0.00850546780072904	0.0133914668327624	7	86	NO	Mainly Alpha
+1.10.10.140	Cytochrome C oxidase subunit h		0.00243013365735115	0.000622858922454064	2	4	YES	Mainly Alpha
+1.10.10.250		Ribosomal protein L11, C-terminal	0.00364520048602673	0.00155714730613516	3	10	YES	Mainly Alpha
+1.10.1040.10	N-(1-d-carboxylethyl)-l-norvaline Dehydrogenase; domain 2	6-phosphogluconate dehydrogenase, domain 2	0.00364520048602673	0.00155714730613516	3	10	YES	Mainly Alpha
+1.10.10.41	Yeast DNA topoisomerase - domain 1	DNA topoisomerase I, domain 1	0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Alpha
+1.10.10.440			0.00121506682867558	0.000934288383681096	1	6	YES	Mainly Alpha
+1.10.10.60	Homeodomain-like		0.00121506682867558	0.00576144503270009	1	37	NO	Mainly Alpha
+1.10.10.670	photosystem ii from thermosynechococcus elongatus 		0.00243013365735115	0.0029585798816568	2	19	NO	Mainly Alpha
+1.10.12.10	Lyase 2-enoyl-coa Hydratase, Chain  A, domain 2	Crontonase, C-terminal	0.00243013365735115	0.000622858922454064	2	4	YES	Mainly Alpha
+1.10.150.160			0.00121506682867558	0.000934288383681096	1	6	YES	Mainly Alpha
+1.10.167.10	Regulator of G-protein Signalling 4, domain 2		0.00243013365735115	0.00077857365306758	2	5	YES	Mainly Alpha
+1.10.1820.10	protein kinase ck2 holoenzyme, chain C, domain 1	Casein kinase II, regulatory subunit, alpha-helical	0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Alpha
+1.10.196.10		RGS, subdomain 1	0.00121506682867558	0.000934288383681096	1	6	YES	Mainly Alpha
+1.10.20.10	Histone, subunit A		0.00243013365735115	0.0102771722204921	2	66	NO	Mainly Alpha
+1.10.220.10		Annexin repeat	0.00729040097205346	0.00358143880411087	6	23	YES	Mainly Alpha
+1.10.225.10	Saposin		0.00243013365735115	0.000155714730613516	2	1	YES	Mainly Alpha
+1.10.238.10	EF-hand		0.00364520048602673	0.0110557458735596	3	71	NO	Mainly Alpha
+1.10.260.40	lambda repressor-like DNA-binding domains		0.00121506682867558	0.000467144191840548	1	3	YES	Mainly Alpha
+1.10.268.10	Topoisomerase, domain 3	Type IIA DNA topoisomerase subunit A, alpha-helical domain	0.00121506682867558	0.00140143257552164	1	9	NO	Mainly Alpha
+1.10.287.10			0.00121506682867558	0.00155714730613516	1	10	NO	Mainly Alpha
+1.10.287.1130	CytochromE C oxidase copper chaperone		0.00243013365735115	0.000934288383681096	2	6	YES	Mainly Alpha
+1.10.287.600	Helix hairpin bin		0.00121506682867558	0.00233572095920274	1	15	NO	Mainly Alpha
+1.10.287.990	Fe,Mn superoxide dismutase (SOD) domain		0.00243013365735115	0.00109000311429461	2	7	YES	Mainly Alpha
+1.10.30.10	DNA Binding (I), subunit A	High mobility group box domain	0.00121506682867558	0.00327000934288384	1	21	NO	Mainly Alpha
+1.10.3370.10	Preprotein translocase SecY subunit domain		0.00243013365735115	0.000934288383681096	2	6	YES	Mainly Alpha
+1.10.405.10	Guanine Nucleotide Dissociation Inhibitor, domain 1		0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Alpha
+1.10.455.10	Ribosomal Protein S7;	Ribosomal protein S7 domain	0.00121506682867558	0.00202429149797571	1	13	NO	Mainly Alpha
+1.10.510.10	Transferase(Phosphotransferase) domain 1		0.0133657351154313	0.0445344129554656	11	286	NO	Mainly Alpha
+1.10.540.10	Butyryl-Coa Dehydrogenase, subunit A, domain 1	Acyl-CoA dehydrogenase/oxidase, N-terminal	0.00121506682867558	0.00124571784490813	1	8	NO	Mainly Alpha
+1.10.560.10	GROEL, domain 1	GroEL-like equatorial domain	0.0109356014580802	0.00840859545312987	9	54	YES	Mainly Alpha
+1.10.580.10	Citrate Synthase, domain 1	Citrate synthase-like, large alpha subdomain	0.00121506682867558	0.00077857365306758	1	5	YES	Mainly Alpha
+1.10.600.10	Farnesyl Diphosphate Synthase	Isoprenoid synthase domain	0.00243013365735115	0.00249143568981626	2	16	NO	Mainly Alpha
+1.10.8.10	DNA helicase RuvA subunit, C-terminal domain		0.00364520048602673	0.00233572095920274	3	15	YES	Mainly Alpha
+1.10.8.360	3,6-anhydro-alpha-l-galactosidase		0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Alpha
+1.10.8.60			0.00243013365735115	0.0038928682653379	2	25	NO	Mainly Alpha
+1.20.1050.10			0.00972053462940462	0.00373715353472438	8	24	YES	Mainly Alpha
+1.20.1150.12	ERP29 C domain-like	Endoplasmic reticulum resident protein 29, C-terminal	0.00121506682867558	0.000467144191840548	1	3	YES	Mainly Alpha
+1.20.1200.10			0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Alpha
+1.20.120.140			0.00243013365735115	0.000622858922454064	2	4	YES	Mainly Alpha
+1.20.120.230			0.00850546780072904	0.00591715976331361	7	38	YES	Mainly Alpha
+1.20.1260.10		Ferritin-related	0.00121506682867558	0.00155714730613516	1	10	NO	Mainly Alpha
+1.20.1270.10		Heat shock protein 70kD, C-terminal domain	0.00607533414337789	0.00186857676736219	5	12	YES	Mainly Alpha
+1.20.1270.60	Arfaptin, Rac-binding fragment, chain A		0.00121506682867558	0.00311429461227032	1	20	NO	Mainly Alpha
+1.20.1410.10	I/LWEQ domain		0.00243013365735115	0.000934288383681096	2	6	YES	Mainly Alpha
+1.20.150.20			0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Alpha
+1.20.190.20		14-3-3 domain	0.00486026731470231	0.00358143880411087	4	23	YES	Mainly Alpha
+1.20.5.170			0.00121506682867558	0.00264715042042977	1	17	NO	Mainly Alpha
+1.20.5.340			0.00243013365735115	0.00498287137963251	2	32	NO	Mainly Alpha
+1.20.5.490	Single helix bin		0.00121506682867558	0.000467144191840548	1	3	YES	Mainly Alpha
+1.20.5.50			0.00121506682867558	0.000467144191840548	1	3	YES	Mainly Alpha
+1.20.58.280	Hypothetical protein 1500032h18.		0.00364520048602673	0.00218000622858922	3	14	YES	Mainly Alpha
+1.20.58.60			0.00121506682867558	0.00467144191840548	1	30	NO	Mainly Alpha
+1.20.58.70			0.00243013365735115	0.00077857365306758	2	5	YES	Mainly Alpha
+1.20.58.90			0.00243013365735115	0.00124571784490813	2	8	YES	Mainly Alpha
+1.20.80.10		FERM/acyl-CoA-binding protein, 3-helical bundle	0.00121506682867558	0.00420429772656493	1	27	NO	Mainly Alpha
+1.20.910.10	Heme oxygenase-like	Haem oxygenase-like, multi-helical	0.00121506682867558	0.00155714730613516	1	10	NO	Mainly Alpha
+1.20.960.10			0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Alpha
+1.25.10.10	Leucine-rich Repeat Variant	Armadillo-like helical	0.00486026731470231	0.0235129243226409	4	151	NO	Mainly Alpha
+1.25.40.10		Tetratricopeptide-like helical domain	0.00121506682867558	0.0109000311429461	1	70	NO	Mainly Alpha
+1.25.40.180			0.00121506682867558	0.00498287137963251	1	32	NO	Mainly Alpha
+1.25.40.190		Actin-related protein 2/3 complex subunit 5	0.00121506682867558	0.000622858922454064	1	4	YES	Mainly Alpha
+1.25.40.20		Ankyrin repeat-containing domain	0.00243013365735115	0.00809716599190283	2	52	NO	Mainly Alpha
+1.25.40.90		ENTH/VHS	0.00121506682867558	0.00373715353472438	1	24	NO	Mainly Alpha
+1.50.10.10			0.00121506682867558	0.00124571784490813	1	8	NO	Mainly Alpha
+1.50.40.10	Mitochondrial carrier domain	Mitochondrial carrier domain	0.00364520048602673	0.00467144191840548	3	30	NO	Mainly Alpha
+2.10.110.10	Cysteine Rich Protein		0.00243013365735115	0.00420429772656493	2	27	NO	Mainly Beta
+2.10.250.10	Calnexin lumenal domain, non-globular proline-rich hairpin domain		0.00364520048602673	0.00124571784490813	3	8	YES	Mainly Beta
+2.10.25.10	Laminin		0.00243013365735115	0.00280286515104329	2	18	NO	Mainly Beta
+2.10.50.10	Tumor Necrosis Factor Receptor, subunit A, domain 2		0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Beta
+2.10.60.10	CD59		0.00121506682867558	0.00077857365306758	1	5	YES	Mainly Beta
+2.10.70.10	Complement Module, domain 1		0.00243013365735115	0.00077857365306758	2	5	YES	Mainly Beta
+2.120.10.30	TolB, C-terminal domain	Six-bladed beta-propeller, TolB-like	0.00364520048602673	0.00186857676736219	3	12	YES	Mainly Beta
+2.130.10.10	YVTN repeat-like/Quinoprotein amine dehydrogenase 	WD40/YVTN repeat-like-containing domain	0.0170109356014581	0.0197757707879165	14	127	NO	Mainly Beta
+2.130.10.120	Prolyl oligopeptidase, N-terminal domain 		0.00121506682867558	0.000934288383681096	1	6	YES	Mainly Beta
+2.130.10.30	Regulator of chromosome condensation RCC1/ beta-lactamase inhibitor protein-II, BLIP-II 		0.00729040097205346	0.00218000622858922	6	14	YES	Mainly Beta
+2.160.20.70			0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Beta
+2.170.150.10	Metal Binding Protein, Guanine Nucleotide Exchange Factor; Chain A		0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Beta
+2.170.260.10	paz domain		0.00364520048602673	0.000311429461227032	3	2	YES	Mainly Beta
+2.170.270.10	SET domain		0.00364520048602673	0.00436001245717845	3	28	NO	Mainly Beta
+2.20.110.10	Histone H3 K4-specific methyltransferase SET7/9 N-terminal domain		0.00121506682867558	0.000467144191840548	1	3	YES	Mainly Beta
+2.20.140.10	q64v53_bacfr domain like	WGR domain	0.00121506682867558	0.00077857365306758	1	5	YES	Mainly Beta
+2.20.25.10			0.00121506682867558	0.00498287137963251	1	32	NO	Mainly Beta
+2.20.25.20			0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Beta
+2.20.25.30		Ribosomal protein L37ae/L37e	0.00121506682867558	0.00109000311429461	1	7	YES	Mainly Beta
+2.20.70.10			0.00121506682867558	0.00109000311429461	1	7	YES	Mainly Beta
+2.30.140.10		Spermidine synthase, tetramerisation domain	0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Beta
+2.30.170.20			0.00121506682867558	0.000467144191840548	1	3	YES	Mainly Beta
+2.30.29.30	Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB)	PH domain-like	0.00972053462940462	0.0138586110246029	8	89	NO	Mainly Beta
+2.30.30.100			0.0109356014580802	0.00607287449392713	9	39	YES	Mainly Beta
+2.30.30.140			0.00121506682867558	0.00654001868576767	1	42	NO	Mainly Beta
+2.30.30.190		CAP Gly-rich domain	0.00243013365735115	0.00077857365306758	2	5	YES	Mainly Beta
+2.30.30.30		Ribosomal protein L2 domain 2	0.00364520048602673	0.00513858611024603	3	33	NO	Mainly Beta
+2.30.30.40	SH3 Domains		0.00243013365735115	0.00529430084085955	2	34	NO	Mainly Beta
+2.30.42.10			0.0121506682867558	0.00513858611024603	10	33	YES	Mainly Beta
+2.40.100.10	Cyclophilin-like	Cyclophilin-like domain	0.00486026731470231	0.00451572718779196	4	29	YES	Mainly Beta
+2.40.10.10	Trypsin-like serine proteases		0.00121506682867558	0.00171286203674868	1	11	NO	Mainly Beta
+2.40.128.20		Calycin	0.00121506682867558	0.00155714730613516	1	10	NO	Mainly Beta
+2.40.150.20	Ribosomal Protein L14;	Ribosomal protein L14P	0.00121506682867558	0.00186857676736219	1	12	NO	Mainly Beta
+2.40.155.10	Green Fluorescent Protein		0.00121506682867558	0.00311429461227032	1	20	NO	Mainly Beta
+2.40.160.10	Porin		0.00243013365735115	0.00155714730613516	2	10	YES	Mainly Beta
+2.40.250.10	Core binding factor beta, CBF	Core binding factor, beta subunit	0.00243013365735115	0.000467144191840548	2	3	YES	Mainly Beta
+2.40.30.10	Translation factors		0.00850546780072904	0.00654001868576767	7	42	YES	Mainly Beta
+2.40.30.20		ATP synthase subunit alpha-like domain	0.00121506682867558	0.000622858922454064	1	4	YES	Mainly Beta
+2.40.33.10	PK beta-barrel domain-like		0.00243013365735115	0.000622858922454064	2	4	YES	Mainly Beta
+2.40.50.140	Nucleic acid-binding proteins		0.00972053462940462	0.0130800373715353	8	84	NO	Mainly Beta
+2.40.50.170	Cysteine proteinases. Chain C		0.00121506682867558	0.00077857365306758	1	5	YES	Mainly Beta
+2.40.50.90		Staphylococcal nuclease (SNase-like), OB-fold/extended TUDOR domain	0.00121506682867558	0.00249143568981626	1	16	NO	Mainly Beta
+2.40.70.10	Acid Proteases	Aspartic peptidase domain	0.00121506682867558	0.00140143257552164	1	9	NO	Mainly Beta
+2.60.11.10	Cytochrome C Oxidase, chain F	Cytochrome c oxidase, subunit Vb	0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Beta
+2.60.120.10	Jelly Rolls	RmlC-like jelly roll fold	0.00121506682867558	0.0029585798816568	1	19	NO	Mainly Beta
+2.60.120.260	Galactose-binding domain-like	Galactose-binding domain-like	0.00121506682867558	0.00451572718779196	1	29	NO	Mainly Beta
+2.60.120.680	CRAL/TRIO domain 		0.00121506682867558	0.000467144191840548	1	3	YES	Mainly Beta
+2.60.200.20			0.00486026731470231	0.00171286203674868	4	11	YES	Mainly Beta
+2.60.210.10	Apoptosis, Tumor Necrosis Factor Receptor Associated Protein 2; Chain A	TRAF-like	0.00121506682867558	0.00202429149797571	1	13	NO	Mainly Beta
+2.60.34.10	Substrate Binding Domain Of DNAk; Chain A, domain 1	Heat shock protein 70kD, peptide-binding domain	0.00486026731470231	0.00202429149797571	4	13	YES	Mainly Beta
+2.60.350.10	Dex49a from penicillium minioluteum complex, domain 1		0.00364520048602673	0.000934288383681096	3	6	YES	Mainly Beta
+2.60.40.10	Immunoglobulins	Immunoglobulin-like fold	0.0340218712029162	0.0269386483961383	28	173	YES	Mainly Beta
+2.60.40.1130	Rab geranylgeranyltransferase alpha-subunit, insert domain		0.00121506682867558	0.000155714730613516	1	1	YES	Mainly Beta
+2.60.40.1170			0.00243013365735115	0.00233572095920274	2	15	YES	Mainly Beta
+2.60.40.1260	Lamin A/C globular tail domain	Lamin Tail Domain	0.00121506682867558	0.000934288383681096	1	6	YES	Mainly Beta
+2.60.40.1360			0.00121506682867558	0.000155714730613516	1	1	YES	Mainly Beta
+2.60.40.1480	Clathrin adaptor appendage domain; domain 1	Coatomer, gamma subunit, appendage, Ig-like subdomain	0.00121506682867558	0.000622858922454064	1	4	YES	Mainly Beta
+2.60.40.1760	glycosyl hydrolase (family 31)		0.00243013365735115	0.00109000311429461	2	7	YES	Mainly Beta
+2.60.40.1770	ephrin a2 ectodomain		0.00121506682867558	0.000467144191840548	1	3	YES	Mainly Beta
+2.60.40.200		Superoxide dismutase, copper/zinc binding domain	0.00121506682867558	0.00077857365306758	1	5	YES	Mainly Beta
+2.60.40.340		Rel homology domain (RHD), DNA-binding domain	0.00121506682867558	0.00124571784490813	1	8	NO	Mainly Beta
+2.60.40.60	Cadherins		0.00243013365735115	0.000934288383681096	2	6	YES	Mainly Beta
+2.60.40.640			0.00121506682867558	0.00124571784490813	1	8	NO	Mainly Beta
+2.60.40.770			0.00121506682867558	0.000311429461227032	1	2	YES	Mainly Beta
+2.60.40.790		HSP20-like chaperone	0.00243013365735115	0.00140143257552164	2	9	YES	Mainly Beta
+2.60.40.820		Transcription factor, T-box	0.00243013365735115	0.00140143257552164	2	9	YES	Mainly Beta
+2.70.130.10	Cation-dependent Mannose-6-phosphate Receptor; Chain A	Mannose-6-phosphate receptor binding domain	0.00486026731470231	0.00109000311429461	4	7	YES	Mainly Beta
+2.70.150.10	Calcium-transporting ATPase, cytoplasmic transduction domain A		0.00121506682867558	0.000155714730613516	1	1	YES	Mainly Beta
+2.70.160.11	Hnrnp arginine n-methyltransferase1		0.00121506682867558	0.0029585798816568	1	19	NO	Mainly Beta
+2.80.10.50			0.00486026731470231	0.00685144814699471	4	44	NO	Mainly Beta
+3.100.10.10			0.00364520048602673	0.00155714730613516	3	10	YES	Alpha-Beta
+3.10.110.10	Ubiquitin Conjugating Enzyme	Ubiquitin-conjugating enzyme/RWD-like	0.00607533414337789	0.00716287760822174	5	46	NO	Alpha-Beta
+3.10.120.10	Flavocytochrome B2, subunit A, domain 1	Cytochrome b5-like heme/steroid binding domain	0.00121506682867558	0.00124571784490813	1	8	NO	Alpha-Beta
+3.10.180.10	2,3-Dihydroxybiphenyl 1,2-Dioxygenase, domain 1	Glyoxalase/Bleomycin resistance protein/Dihydroxybiphenyl dioxygenase	0.00243013365735115	0.00124571784490813	2	8	YES	Alpha-Beta
+3.10.200.10	Carbonic Anhydrase II	Alpha carbonic anhydrase	0.00121506682867558	0.00124571784490813	1	8	NO	Alpha-Beta
+3.10.20.30		Beta-grasp domain	0.00121506682867558	0.00109000311429461	1	7	YES	Alpha-Beta
+3.10.20.90	Phosphatidylinositol 3-kinase Catalytic Subunit; Chain A, domain 1		0.0121506682867558	0.0121457489878543	10	78	YES	Alpha-Beta
+3.10.280.10	Mitochondrial Matrix Protein Chain A	Mitochondrial glycoprotein	0.00121506682867558	0.00140143257552164	1	9	NO	Alpha-Beta
+3.10.50.40			0.00607533414337789	0.00373715353472438	5	24	YES	Alpha-Beta
+3.10.580.10	CBS-domain		0.00121506682867558	0.00155714730613516	1	10	NO	Alpha-Beta
+3.20.110.10	Glycoside hydrolase 38, N terminal domain	Glycoside hydrolase 38/57, N-terminal domain	0.00243013365735115	0.000155714730613516	2	1	YES	Alpha-Beta
+3.20.20.10	Alanine racemase	PLP-binding barrel	0.00121506682867558	0.000622858922454064	1	4	YES	Alpha-Beta
+3.20.20.100	NADP-dependent oxidoreductase	NADP-dependent oxidoreductase domain	0.00364520048602673	0.00404858299595142	3	26	NO	Alpha-Beta
+3.20.20.120	Enolase superfamily	Enolase C-terminal domain-like	0.00486026731470231	0.00311429461227032	4	20	YES	Alpha-Beta
+3.20.20.140	Metal-dependent hydrolases		0.00121506682867558	0.00327000934288384	1	21	NO	Alpha-Beta
+3.20.20.20	Dihydropteroate (DHP) synthetase		0.00243013365735115	0.000622858922454064	2	4	YES	Alpha-Beta
+3.20.20.210			0.00121506682867558	0.00171286203674868	1	11	NO	Alpha-Beta
+3.20.20.60	Phosphoenolpyruvate-binding domains		0.00243013365735115	0.00124571784490813	2	8	YES	Alpha-Beta
+3.20.20.70	Aldolase class I	Aldolase-type TIM barrel	0.00850546780072904	0.0130800373715353	7	84	NO	Alpha-Beta
+3.20.20.80	Glycosidases		0.00121506682867558	0.00420429772656493	1	27	NO	Alpha-Beta
+3.30.1010.10	Phosphatidylinositol 3-kinase Catalytic Subunit; Chain A, domain 4		0.00121506682867558	0.000622858922454064	1	4	YES	Alpha-Beta
+3.30.1120.10			0.00121506682867558	0.000311429461227032	1	2	YES	Alpha-Beta
+3.30.1330.20		Tubulin/FtsZ, 2-layer sandwich domain	0.00121506682867558	0.00327000934288384	1	21	NO	Alpha-Beta
+3.30.1330.40		Endoribonuclease L-PSP/chorismate mutase-like	0.00121506682867558	0.000155714730613516	1	1	YES	Alpha-Beta
+3.30.1370.10		K Homology domain, type 1	0.00972053462940462	0.00731859233883525	8	47	YES	Alpha-Beta
+3.30.1390.10		Ribosomal protein L7/L12, C-terminal/adaptor protein ClpS-like	0.00121506682867558	0.000467144191840548	1	3	YES	Alpha-Beta
+3.30.1440.10		Ribosomal protein L5 domain	0.00121506682867558	0.000934288383681096	1	6	YES	Alpha-Beta
+3.30.1460.20		Arp2/3 complex subunit 2/4	0.00121506682867558	0.00109000311429461	1	7	YES	Alpha-Beta
+3.30.1490.120	DNA-directed RNA polymerase ii subunit; domain 1	RNA polymerase Rpb7, N-terminal	0.00121506682867558	0.000467144191840548	1	3	YES	Alpha-Beta
+3.30.1490.20	ATP-grasp fold, A domain	ATP-grasp fold, subdomain 1	0.00121506682867558	0.00140143257552164	1	9	NO	Alpha-Beta
+3.30.1550.10	Ribosomal protein L11, N-terminal domain	Ribosomal protein L11, N-terminal	0.00121506682867558	0.00124571784490813	1	8	NO	Alpha-Beta
+3.30.1600.10	SIR2/SIRT2 'Small Domain'	Sirtuin family, catalytic core small domain	0.00121506682867558	0.000311429461227032	1	2	YES	Alpha-Beta
+3.30.1680.10	ligand-binding face of the semaphorins, domain 2		0.00121506682867558	0.00077857365306758	1	5	YES	Alpha-Beta
+3.30.1740.10	first zn-finger domain of poly(adp-ribose) polymerase-1	Zinc finger, PARP-type	0.00486026731470231	0.00140143257552164	4	9	YES	Alpha-Beta
+3.30.200.20	Phosphorylase Kinase; domain 1		0.00850546780072904	0.0319215197757708	7	205	NO	Alpha-Beta
+3.30.2230.10	DUSP-like	Peptidase C19, ubiquitin-specific peptidase, DUSP domain	0.00243013365735115	0.00109000311429461	2	7	YES	Alpha-Beta
+3.30.230.10		Ribosomal protein S5 domain 2-type fold, subgroup	0.00364520048602673	0.00529430084085955	3	34	NO	Alpha-Beta
+3.30.230.70	GHMP Kinase, N-terminal domain	PNPase/RNase PH domain	0.00243013365735115	0.00186857676736219	2	12	YES	Alpha-Beta
+3.30.2350.10	Pseudouridine synthase		0.00121506682867558	0.00109000311429461	1	7	YES	Alpha-Beta
+3.30.2410.10	Hect, E3 ligase catalytic domain		0.00121506682867558	0.000155714730613516	1	1	YES	Alpha-Beta
+3.30.260.10	GROEL, domain 2		0.00243013365735115	0.00202429149797571	2	13	YES	Alpha-Beta
+3.30.300.20		K homology domain-like, alpha/beta	0.00121506682867558	0.0029585798816568	1	19	NO	Alpha-Beta
+3.30.360.10	Dihydrodipicolinate Reductase; domain 2		0.00486026731470231	0.00186857676736219	4	12	YES	Alpha-Beta
+3.30.390.30		FAD/NAD-linked reductase, dimerisation domain	0.00243013365735115	0.000934288383681096	2	6	YES	Alpha-Beta
+3.30.40.10	Zinc/RING finger domain, C3HC4 (zinc finger)	Zinc finger, RING/FYVE/PHD-type	0.00243013365735115	0.0116786047960137	2	75	NO	Alpha-Beta
+3.30.420.10		Ribonuclease H-like domain	0.00364520048602673	0.0038928682653379	3	25	NO	Alpha-Beta
+3.30.420.150	Exopolyphosphatase. Domain 2		0.00121506682867558	0.000311429461227032	1	2	YES	Alpha-Beta
+3.30.420.40			0.00850546780072904	0.0101214574898785	7	65	NO	Alpha-Beta
+3.30.420.80		Ribosomal protein S11	0.00364520048602673	0.00109000311429461	3	7	YES	Alpha-Beta
+3.30.428.10	HIT family, subunit A	HIT-like domain	0.00121506682867558	0.000934288383681096	1	6	YES	Alpha-Beta
+3.30.429.10	Macrophage Migration Inhibitory Factor		0.00243013365735115	0.000467144191840548	2	3	YES	Alpha-Beta
+3.30.450.20			0.00243013365735115	0.00077857365306758	2	5	YES	Alpha-Beta
+3.30.450.30	Dynein light chain 2a, cytoplasmic		0.00607533414337789	0.00155714730613516	5	10	YES	Alpha-Beta
+3.30.450.60			0.00364520048602673	0.00249143568981626	3	16	YES	Alpha-Beta
+3.30.460.10	Beta Polymerase, domain 2		0.00121506682867558	0.000622858922454064	1	4	YES	Alpha-Beta
+3.30.470.20	ATP-grasp fold, B domain		0.00121506682867558	0.00311429461227032	1	20	NO	Alpha-Beta
+3.30.470.30	DNA ligase/mRNA capping enzyme		0.00121506682867558	0.000311429461227032	1	2	YES	Alpha-Beta
+3.30.479.10			0.00121506682867558	0.000467144191840548	1	3	YES	Alpha-Beta
+3.30.499.10	Aconitase, domain 3	Aconitase/3-isopropylmalate dehydratase large subunit, alpha/beta/alpha, subdomain 1/3	0.00243013365735115	0.00155714730613516	2	10	YES	Alpha-Beta
+3.30.500.10	Murine Class I Major Histocompatibility Complex, H2-DB, subunit A, domain 1	MHC class I-like antigen recognition-like	0.00121506682867558	0.00327000934288384	1	21	NO	Alpha-Beta
+3.30.505.10	SHC Adaptor Protein	SH2 domain	0.00243013365735115	0.0038928682653379	2	25	NO	Alpha-Beta
+3.30.519.10	Guanine Nucleotide Dissociation Inhibitor, domain 2		0.00121506682867558	0.00077857365306758	1	5	YES	Alpha-Beta
+3.30.565.10		Histidine kinase-like ATPase, C-terminal domain	0.00607533414337789	0.00436001245717845	5	28	YES	Alpha-Beta
+3.30.590.10	Glutamine synthetase/guanido kinase	Glutamine synthetase/guanido kinase, catalytic domain	0.00364520048602673	0.00233572095920274	3	15	YES	Alpha-Beta
+3.30.60.20			0.00121506682867558	0.00109000311429461	1	7	YES	Alpha-Beta
+3.30.70.1230	Adenylyl Cyclase, chain A	Adenylyl cyclase class-3/4/guanylyl cyclase	0.00121506682867558	0.000622858922454064	1	4	YES	Alpha-Beta
+3.30.70.1390	ROC domain from the Parkinson's disease-associated leucine-rich repeat kinase 2		0.00607533414337789	0.00887573964497041	5	57	NO	Alpha-Beta
+3.30.70.20			0.00243013365735115	0.000622858922454064	2	4	YES	Alpha-Beta
+3.30.70.240			0.00121506682867558	0.00109000311429461	1	7	YES	Alpha-Beta
+3.30.70.330			0.0279465370595383	0.0316100903145438	23	203	NO	Alpha-Beta
+3.30.70.60		Translation elongation factor EF1B/ribosomal protein S6	0.00121506682867558	0.00186857676736219	1	12	NO	Alpha-Beta
+3.30.70.600		Ribosomal protein S10 domain	0.00121506682867558	0.000311429461227032	1	2	YES	Alpha-Beta
+3.30.70.870	Elongation Factor G (Translational Gtpase), domain 3		0.00121506682867558	0.000622858922454064	1	4	YES	Alpha-Beta
+3.30.70.980		Transcriptional regulator TACO1-like, domain 3	0.00121506682867558	0.000467144191840548	1	3	YES	Alpha-Beta
+3.30.830.10	Cytochrome Bc1 Complex; Chain A, domain 1		0.00729040097205346	0.00373715353472438	6	24	YES	Alpha-Beta
+3.30.860.10	30s Ribosomal Protein S19; Chain A	Ribosomal protein S19, superfamily	0.00121506682867558	0.000622858922454064	1	4	YES	Alpha-Beta
+3.30.900.10	Cell Cycle, Spindle Assembly Checkpoint Protein; Chain A		0.00121506682867558	0.00109000311429461	1	7	YES	Alpha-Beta
+3.30.930.10	Bira Bifunctional Protein; Domain 2		0.00607533414337789	0.00809716599190283	5	52	NO	Alpha-Beta
+3.40.1110.10	Calcium-transporting ATPase, cytoplasmic domain N	P-type ATPase, cytoplasmic domain N	0.00121506682867558	0.000622858922454064	1	4	YES	Alpha-Beta
+3.40.1190.20		Ribokinase-like	0.00364520048602673	0.00124571784490813	3	8	YES	Alpha-Beta
+3.40.120.10	Alpha-D-Glucose-1,6-Bisphosphate, subunit A, domain 3		0.00121506682867558	0.00077857365306758	1	5	YES	Alpha-Beta
+3.40.1230.10		NDUFAF3/Mth938 domain-containing protein	0.00243013365735115	0.000155714730613516	2	1	YES	Alpha-Beta
+3.40.1370.10		Ribosomal protein L4 domain	0.00364520048602673	0.00233572095920274	3	15	YES	Alpha-Beta
+3.40.1380.10			0.00121506682867558	0.000155714730613516	1	1	YES	Alpha-Beta
+3.40.1380.20		Pyruvate kinase, C-terminal	0.00243013365735115	0.000622858922454064	2	4	YES	Alpha-Beta
+3.40.140.10	Cytidine Deaminase, domain 2		0.00243013365735115	0.00311429461227032	2	20	NO	Alpha-Beta
+3.40.20.10	Severin	ADF-H/Gelsolin-like domain	0.00243013365735115	0.00280286515104329	2	18	NO	Alpha-Beta
+3.40.30.10	Glutaredoxin		0.0243013365735115	0.0172843350981003	20	111	YES	Alpha-Beta
+3.40.309.10	Aldehyde Dehydrogenase; Chain A, domain 2		0.00364520048602673	0.00311429461227032	3	20	YES	Alpha-Beta
+3.40.367.20			0.00243013365735115	0.00202429149797571	2	13	YES	Alpha-Beta
+3.40.47.10		Thiolase-like	0.00364520048602673	0.00249143568981626	3	16	YES	Alpha-Beta
+3.40.50.1000		HAD-like domain	0.00607533414337789	0.00404858299595142	5	26	YES	Alpha-Beta
+3.40.50.10190		BRCT domain	0.00121506682867558	0.00171286203674868	1	11	NO	Alpha-Beta
+3.40.50.10260	YjeF N-terminal domain-like	YjeF N-terminal domain	0.00364520048602673	0.00124571784490813	3	8	YES	Alpha-Beta
+3.40.50.10490	Glucose-6-phosphate isomerase like protein; domain 1		0.00972053462940462	0.00342572407349735	8	22	YES	Alpha-Beta
+3.40.50.10860	Leucine Dehydrogenase, chain A, domain 1		0.00243013365735115	0.00109000311429461	2	7	YES	Alpha-Beta
+3.40.50.1100			0.00243013365735115	0.00140143257552164	2	9	YES	Alpha-Beta
+3.40.50.1110			0.00121506682867558	0.000467144191840548	1	3	YES	Alpha-Beta
+3.40.50.1220	TPP-binding domain	DHS-like NAD/FAD-binding domain	0.00243013365735115	0.00155714730613516	2	10	YES	Alpha-Beta
+3.40.50.1260		Phosphoglycerate kinase, N-terminal	0.00607533414337789	0.00155714730613516	5	10	YES	Alpha-Beta
+3.40.50.1360			0.00121506682867558	0.00077857365306758	1	5	YES	Alpha-Beta
+3.40.50.1370		Aspartate/ornithine carbamoyltransferase	0.00243013365735115	0.000311429461227032	2	2	YES	Alpha-Beta
+3.40.50.1440		Tubulin/FtsZ, GTPase domain	0.00972053462940462	0.00498287137963251	8	32	YES	Alpha-Beta
+3.40.50.1460			0.00121506682867558	0.00140143257552164	1	9	NO	Alpha-Beta
+3.40.50.1480			0.00243013365735115	0.00327000934288384	2	21	NO	Alpha-Beta
+3.40.50.150	Vaccinia Virus protein VP39		0.0121506682867558	0.0101214574898785	10	65	YES	Alpha-Beta
+3.40.50.1580			0.00121506682867558	0.00077857365306758	1	5	YES	Alpha-Beta
+3.40.50.1950		Flavoprotein	0.00121506682867558	0.000155714730613516	1	1	YES	Alpha-Beta
+3.40.50.200		Peptidase S8/S53 domain	0.00364520048602673	0.000467144191840548	3	3	YES	Alpha-Beta
+3.40.50.2020			0.00364520048602673	0.00342572407349735	3	22	YES	Alpha-Beta
+3.40.50.2300			0.00243013365735115	0.00186857676736219	2	12	YES	Alpha-Beta
+3.40.50.261	Succinyl-CoA synthetase domains	Succinyl-CoA synthetase-like	0.00243013365735115	0.00218000622858922	2	14	YES	Alpha-Beta
+3.40.50.300	P-loop containing nucleotide triphosphate hydrolases		0.0583232077764277	0.0734973528495796	48	472	NO	Alpha-Beta
+3.40.50.410		von Willebrand factor, type A	0.00243013365735115	0.00358143880411087	2	23	NO	Alpha-Beta
+3.40.50.450			0.00243013365735115	0.00233572095920274	2	15	YES	Alpha-Beta
+3.40.50.460			0.00243013365735115	0.00171286203674868	2	11	YES	Alpha-Beta
+3.40.50.620	HUPs	Rossmann-like alpha/beta/alpha sandwich fold	0.00121506682867558	0.00731859233883525	1	47	NO	Alpha-Beta
+3.40.50.720	NAD(P)-binding Rossmann-like Domain		0.0340218712029162	0.0242914979757085	28	156	YES	Alpha-Beta
+3.40.50.740			0.00121506682867558	0.000467144191840548	1	3	YES	Alpha-Beta
+3.40.50.920		Transketolase C-terminal/Pyruvate-ferredoxin oxidoreductase domain II	0.00121506682867558	0.000934288383681096	1	6	YES	Alpha-Beta
+3.40.50.970			0.00243013365735115	0.0029585798816568	2	19	NO	Alpha-Beta
+3.40.532.10	Ubiquitin C-terminal Hydrolase Uch-l3	Peptidase C12, ubiquitin carboxyl-terminal hydrolase	0.00243013365735115	0.000934288383681096	2	6	YES	Alpha-Beta
+3.40.605.10	Aldehyde Dehydrogenase; Chain A, domain 1	Aldehyde dehydrogenase N-terminal domain	0.00243013365735115	0.00373715353472438	2	24	NO	Alpha-Beta
+3.40.630.10	Zn peptidases		0.00121506682867558	0.00467144191840548	1	30	NO	Alpha-Beta
+3.40.640.10	Type I PLP-dependent aspartate aminotransferase-like (Major domain)	Pyridoxal phosphate-dependent transferase, major region, subdomain 1	0.00121506682867558	0.00404858299595142	1	26	NO	Alpha-Beta
+3.40.718.10	Isopropylmalate Dehydrogenase		0.00243013365735115	0.0038928682653379	2	25	NO	Alpha-Beta
+3.40.800.20		Histone deacetylase domain	0.00243013365735115	0.0038928682653379	2	25	NO	Alpha-Beta
+3.40.850.10	Kinesin	Kinesin motor domain	0.00364520048602673	0.00576144503270009	3	37	NO	Alpha-Beta
+3.50.50.60		FAD/NAD(P)-binding domain	0.00364520048602673	0.00513858611024603	3	33	NO	Alpha-Beta
+3.50.7.10	GroEL	GroEL-like apical domain	0.00364520048602673	0.00373715353472438	3	24	NO	Alpha-Beta
+3.60.10.10		Endonuclease/exonuclease/phosphatase	0.00121506682867558	0.00311429461227032	1	20	NO	Alpha-Beta
+3.60.110.10		Carbon-nitrogen hydrolase	0.00121506682867558	0.000467144191840548	1	3	YES	Alpha-Beta
+3.60.15.10	Metallo-beta-lactamase, chain A	Metallo-beta-lactamase	0.00243013365735115	0.00140143257552164	2	9	YES	Alpha-Beta
+3.60.20.10	Glutamine Phosphoribosylpyrophosphate, subunit 1, domain 1	Nucleophile aminohydrolases, N-terminal	0.0133657351154313	0.00887573964497041	11	57	YES	Alpha-Beta
+3.60.21.10		Metallo-dependent phosphatase-like	0.00121506682867558	0.00451572718779196	1	29	NO	Alpha-Beta
+3.60.40.10	Phosphatase 2c; Domain 1	PPM-type phosphatase domain	0.00121506682867558	0.00124571784490813	1	8	NO	Alpha-Beta
+3.75.10.10	L-arginine/glycine Amidinotransferase; Chain A		0.00364520048602673	0.00140143257552164	3	9	YES	Alpha-Beta
+3.80.10.10	Ribonuclease Inhibitor	Leucine-rich repeat domain, L domain-like	0.00243013365735115	0.00311429461227032	2	20	NO	Alpha-Beta
+3.90.1010.10			0.00121506682867558	0.000155714730613516	1	1	YES	Alpha-Beta
+3.90.110.10	L-2-Hydroxyisocaproate Dehydrogenase, subunit A, domain 2		0.00729040097205346	0.00155714730613516	6	10	YES	Alpha-Beta
+3.90.1150.10	Aspartate Aminotransferase, domain 1	Pyridoxal phosphate-dependent transferase, subdomain 2	0.00486026731470231	0.00373715353472438	4	24	YES	Alpha-Beta
+3.90.1170.10		Ribosomal protein L10e/L16	0.00121506682867558	0.00140143257552164	1	9	NO	Alpha-Beta
+3.90.1180.10		Ribosomal protein L13	0.00121506682867558	0.000934288383681096	1	6	YES	Alpha-Beta
+3.90.1210.10	AFP III-like domain		0.00121506682867558	0.000155714730613516	1	1	YES	Alpha-Beta
+3.90.1260.10	Argininosuccinate synthetase, chain A, domain 2	Argininosuccinate synthetase, catalytic/multimerisation domain body	0.00121506682867558	0.000934288383681096	1	6	YES	Alpha-Beta
+3.90.1420.10	RuBisCo LSMT C-terminal, substrate-binding domain	Rubisco LSMT, substrate-binding domain	0.00121506682867558	0.000467144191840548	1	3	YES	Alpha-Beta
+3.90.190.10	Protein tyrosine phosphatase superfamily	Protein-tyrosine phosphatase-like	0.00243013365735115	0.0102771722204921	2	66	NO	Alpha-Beta
+3.90.226.10	2-enoyl-CoA Hydratase; Chain A, domain 1		0.00121506682867558	0.00436001245717845	1	28	NO	Alpha-Beta
+3.90.228.20		Phosphoenolpyruvate carboxykinase, C-terminal	0.00121506682867558	0.000155714730613516	1	1	YES	Alpha-Beta
+3.90.230.10	Creatinase/methionine aminopeptidase superfamily		0.00364520048602673	0.00342572407349735	3	22	YES	Alpha-Beta
+3.90.280.10	Phosphatidylethanolamine-binding Protein;	Phosphatidylethanolamine-binding protein	0.00364520048602673	0.00171286203674868	3	11	YES	Alpha-Beta
+3.90.290.10	Extracellular Matrix Fibrillin	TB domain	0.00243013365735115	0.000311429461227032	2	2	YES	Alpha-Beta
+3.90.550.10	Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A	Nucleotide-diphospho-sugar transferases	0.00121506682867558	0.00311429461227032	1	20	NO	Alpha-Beta
+3.90.640.10	Actin; Chain A, domain 4		0.00121506682867558	0.0029585798816568	1	19	NO	Alpha-Beta
+3.90.650.10	Phosphoribosyl-aminoimidazole Synthetase; Chain A, domain 2	AIR synthase-related protein, C-terminal domain	0.00121506682867558	0.00202429149797571	1	13	NO	Alpha-Beta
+3.90.660.10			0.00121506682867558	0.000622858922454064	1	4	YES	Alpha-Beta
+3.90.70.10	Cysteine proteinases		0.00486026731470231	0.00763002180006229	4	49	NO	Alpha-Beta
+3.90.770.10	3-hydroxy-3-methylglutaryl-coenzyme A Reductase; Chain A, domain 2	Hydroxymethylglutaryl-CoA reductase, class I/II, catalytic domain	0.00243013365735115	0.000467144191840548	2	3	YES	Alpha-Beta
+3.90.79.10	Nucleoside Triphosphate Pyrophosphohydrolase		0.00243013365735115	0.00342572407349735	2	22	NO	Alpha-Beta
+3.90.850.10	Fumarylacetoacetate hydrolase, domain 2	Fumarylacetoacetase, C-terminal-related	0.00243013365735115	0.000622858922454064	2	4	YES	Alpha-Beta
+3.90.930.12		Ribosomal protein L6, alpha-beta domain	0.00121506682867558	0.000622858922454064	1	4	YES	Alpha-Beta
+3.90.950.10		Inosine triphosphate pyrophosphatase-like	0.00121506682867558	0.000467144191840548	1	3	YES	Alpha-Beta
+4.10.1000.10	CCCH zinc finger	Zinc finger, CCCH-type	0.00121506682867558	0.000622858922454064	1	4	YES	Few sec.structures
+4.10.280.10	HLH, helix-loop-helix DNA-binding domain	Myc-type, basic helix-loop-helix (bHLH) domain	0.00121506682867558	0.00264715042042977	1	17	NO	Few sec.structures
+4.10.40.10			0.00121506682867558	0.000311429461227032	1	2	YES	Few sec.structures
