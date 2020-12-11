@@ -1,4 +1,4 @@
-# SECRiFY_PDB_processing
+# SECRiFY PDB processing
 
 	All the data used for downstream processing can be found here. please navigate the 
 	subdirectories for associated data and python scripts used (if any) for processing
