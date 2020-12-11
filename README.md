@@ -1,13 +1,13 @@
 # SECRiFY_PDB_processing
 
-#######	All the data used for downstream processing can be found here. please navigate the 
-		subdirectories for associated data and python scripts used (if any)) for processing
+All the data used for downstream processing can be found here. please navigate the 
+subdirectories for associated data and python scripts used (if any)) for processing
     
 
 ### Sub directories
 
 ##### 	Initial_ID_mapping	
-####### contains the data and python script used for mapping between fragments IDs ENSEMBL gene and protein IDs
+contains the data and python script used for mapping between fragments IDs ENSEMBL gene and protein IDs
 	
 #####	cd-hit_fragments
 			contains cluster information from CD-HIT suite: cluster representatives, cluster members, 
