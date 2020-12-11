@@ -41,7 +41,7 @@
                          
                        
 #####	compiled_report_files
-	contains a short summary of data processing used and some supplimentary plots 
+	contains a short summary of data processing used and some supplementary plots 
 	
 	
  
