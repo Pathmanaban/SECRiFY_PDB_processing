@@ -1,13 +1,13 @@
 # SECRiFY_PDB_processing
 
 	All the data used for downstream processing can be found here. please navigate the 
-	subdirectories for associated data and python scripts used (if any)) for processing
+	subdirectories for associated data and python scripts used (if any) for processing
     
 
 ### Sub directories
 
 ##### 	Initial_ID_mapping	
-	contains the data and python script used for mapping between fragments IDs,
+	contains the data and python script used for mapping between fragment IDs,
 	ENSEMBL gene and protein IDs
 	
 #####	cd-hit_fragments
@@ -37,11 +37,11 @@
 	processing the same
     
 	**sub-dir: Mann–Whitney-U**
-	contains the jupyter notebook used for making plots and mann hwitney U statistics
+	contains the jupyter notebook used for making plots and mann-whitney U statistics
                          
                        
 #####	compiled_report_files
-	contains a short summary of data porcessing used and some supplimentary plots 
+	contains a short summary of data processing used and some supplimentary plots 
 	
 	
  
